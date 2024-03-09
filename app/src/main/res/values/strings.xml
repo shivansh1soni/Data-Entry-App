@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Data Entry App</string>
+    <string name="shivansh_soni">Shivansh Soni</string>
+    <string name="_8871266369">8871266369</string>
+    <string name="fab">Floating Action Button</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="chosen_image">chosen image</string>
+
+</resources>
